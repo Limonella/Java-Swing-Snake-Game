@@ -1,1 +1,3 @@
-# JavaSwing_Snake_Game
+# Java Swing - Snake game
+
+Hra had pomocí Swing.
