@@ -1,3 +1,3 @@
 # Java Swing - Snake game
 
-Hra had pomocí Swing.
+Hra Had pomocí Swing.
